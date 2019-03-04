@@ -7,6 +7,7 @@ Follow guide bellow and build your web
 `$ vi app.css`
 
 ### step 1: Show the avatar
+
 to learn the differences in (block/inline-block/inline)
 ```
 i.avatar, i.icon {
